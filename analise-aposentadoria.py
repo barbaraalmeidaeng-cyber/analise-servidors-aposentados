@@ -86,9 +86,5 @@ plt.ylabel('Cargo')
 plt.tight_layout()
 plt.show()
 
-plt.savefig(
-    r'C:\Users\barba\OneDrive\Imagens\Screenshots\aposentadora-cargo.png',
-    dpi=300,
-    bbox_inches='tight'
-)
-plt.show()
+
+
