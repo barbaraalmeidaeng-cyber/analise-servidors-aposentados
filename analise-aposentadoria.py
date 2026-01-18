@@ -1,9 +1,7 @@
 """
-Análise de Servidores Aposentados
-
-Objetivo:
-Analisar o perfil dos servidores aposentados de um órgão público,
-identificando padrões de aposentadoria e distribuição por cargo.
+Análise exploratória de dados de servidores aposentados
+Autor: Bárbara Almeida
+Objetivo: gerar insights a partir de dados públicos
 """
 
 import pandas as pd
@@ -85,6 +83,7 @@ plt.xlabel('Quantidade')
 plt.ylabel('Cargo')
 plt.tight_layout()
 plt.show()
+
 
 
 
